@@ -1,0 +1,3 @@
+2;7/5/2019;Lit;65MPQS;Lit;1;400;2;Acceptee;220;90
+1;8/5/2019;Canape;15XZMP;Canape;1;800;5;Stocke;250;50;2
+1;5/5/2019;Lave-vaisselle;77GTHY;Lave-vaisselle;2;0;3;Stocke;80;40;2

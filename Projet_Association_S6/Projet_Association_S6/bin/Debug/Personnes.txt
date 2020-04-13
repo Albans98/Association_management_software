@@ -1,0 +1,10 @@
+1;Leforgeron;rue de la Convention Paris;0198909887;Armand;10/10/1930
+2;Lemarechal;rue Molitor Paris;0121298731;Amandine;11/2/1928
+3;Levaillant;rue de la Gare Paris;0123988776;Louise;23/3/1934
+STOP
+1;Durand;rue des Sablons Paris;0102030405;Arthur;president
+2;Dupond;rue de la Republique Paris;0103047676;Simon;tresorier
+3;Courty;rue Huchette Paris;0135362578;Valentin;membre
+STOP
+1;Entrepot;Stock Life; avenue des stocks;0178986425
+2;Depot;Depot Vie;rue du depot;0198746324
